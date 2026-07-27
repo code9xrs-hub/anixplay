@@ -59,8 +59,8 @@ While we **actively** accept issues and pull requests, we do require you fill ou
 ## Further Sources: 
 
 - Set-Up for other devices, such as:
-  - [Android TV](https://github.com/code9xrs-hub/anixplay/releases/download/android/anixplay-stable-android.TV-release.apk)
-  - [Android Phone](https://github.com/code9xrs-hub/anixplay/releases/download/android/anixplay-stable-android-release.apk)
+  - [Android TV](https://anixplay.ifree.page)
+  - [Android Phone](https://anixplay.ifree.page)
 
 <a id="languages"> </a>  
 
