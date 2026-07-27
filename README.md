@@ -6,7 +6,7 @@
 
 **AnixPlay is a media center that prioritizes and emphasizes complete freedom and flexibility for users and developers.** 
 
-CloudStream is an extension-based multimedia player with tracking support. There are extensions to view videos from: 
+AnixPlay is an extension-based multimedia player with tracking support. There are extensions to view videos from: 
 
 
 **Please don't create illegal extensions or use any that host any copyrighted media.** For more details about our stance on the DMCA and EUCD, you can read about it on our organization: [AnixPlay](https://t.me/+_lpzoRvOttNkMTQ1)
@@ -29,9 +29,9 @@ Our documentation is unmaintained and open to contributions; therefore, apps and
 
 ## Installation: 
 
-Our documentation provides the steps to install and configure CloudStream for your streaming needs.
+Our documentation provides the steps to install and configure AnixPlay for your streaming needs.
 
-[Getting Started With CloudStream:](https://anixplay.ifree.page)
+[Getting Started With AnixPlay:](https://anixplay.ifree.page)
 
 <a id="issues"></a> 
  
@@ -50,7 +50,7 @@ While we **actively** accept issues and pull requests, we do require you fill ou
 
 ### Extensions:
  
-**Further details on creating extensions for CloudStream are found in our documentation.**
+**Further details on creating extensions for AnixPlay are found in our documentation.**
 
 [Guide: For Extension Developers](https://t.me/+_lpzoRvOttNkMTQ1) 
 
@@ -67,5 +67,5 @@ While we **actively** accept issues and pull requests, we do require you fill ou
 ### Supported languages:
 
 Even if you can't contribute to the code or documentation, we always look for those who can contribute to translation and language support. Your contribution is exceptionally appreciated; you can check our translation from the figure below. 
-  <img src="https://hosted.weblate.org/widgets/cloudstream/-/app/multi-auto.svg" alt="Translation status" />
+  <img src="https://hosted.weblate.org/widgets/AnixPlay/-/app/multi-auto.svg" alt="Translation status" />
 </a>
