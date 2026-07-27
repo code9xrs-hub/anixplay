@@ -67,5 +67,5 @@ While we **actively** accept issues and pull requests, we do require you fill ou
 ### Supported languages:
 
 Even if you can't contribute to the code or documentation, we always look for those who can contribute to translation and language support. Your contribution is exceptionally appreciated; you can check our translation from the figure below. 
-  <img src="https://hosted.weblate.org/widgets/AnixPlay/-/app/multi-auto.svg" alt="Translation status" />
+  <img src="https://hosted.weblate.org/widgets/CloudStream/-/app/multi-auto.svg" alt="Translation status" />
 </a>
